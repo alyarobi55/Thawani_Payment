@@ -10,7 +10,7 @@ def encrypt_message(data, publickey):
     return encoded_encrypted_data
 
 
-# The message to be encrypted
+# The data to be encrypted
 to_encrypt_data = b'test data'
 
 file = open("encrypted_data.txt", "a")
