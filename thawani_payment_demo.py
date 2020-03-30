@@ -11,7 +11,7 @@ def encrypt_message(data, publickey):
 
 
 # The message to be encrypted
-to_encrypt_data = b'"course:6"'
+to_encrypt_data = b'test data'
 
 file = open("encrypted_data.txt", "a")
 
