@@ -1,5 +1,3 @@
-# python3 thawani_payment_single_data.py
-
 from Crypto.Cipher import PKCS1_v1_5
 from Crypto.PublicKey import RSA
 import base64
